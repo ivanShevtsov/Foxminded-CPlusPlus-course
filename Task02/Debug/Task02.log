@@ -1,0 +1,8 @@
+﻿  Matrix.cpp
+C:\FoxTasks\foxtasks\Task02\Matrix.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+C:\FoxTasks\foxtasks\Task02\Matrix.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+C:\FoxTasks\foxtasks\Task02\Matrix.cpp(95,12): warning C4018: '<': signed/unsigned mismatch
+C:\FoxTasks\foxtasks\Task02\Matrix.cpp(105,12): warning C4018: '<': signed/unsigned mismatch
+C:\FoxTasks\foxtasks\Task02\Matrix.cpp(119,12): warning C4018: '<': signed/unsigned mismatch
+C:\FoxTasks\foxtasks\Task02\Matrix.cpp(166,20): warning C4018: '<': signed/unsigned mismatch
+  Task02.vcxproj -> C:\FoxTasks\foxtasks\Task02\Debug\Task02.exe
